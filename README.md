@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zumcoin/zum-assets/master/ZumCoin/zumcoin_logo_design/3d_green_lite_bg/ZumLogo_800x200px_lite_bg.png" width="400"></p>
+<p align="center"><img src="" width="400"></p>
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/zumcoin/zumcoin.svg?branch=master)](https://travis-ci.org/zumcoin/zumcoin) [![Build status](https://ci.appveyor.com/api/projects/status/github/zumcoin/zumcoin?branch=master&svg=true)](https://ci.appveyor.com/project/zumcoin/zumcoin)
